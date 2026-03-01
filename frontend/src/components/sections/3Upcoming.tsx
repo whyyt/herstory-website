@@ -1,7 +1,6 @@
 "use client";
-import React from "react";
 import { motion } from "framer-motion";
-import { Calendar, MapPin, Clock, ArrowRight } from "lucide-react";
+import { Calendar, Clock, ArrowRight } from "lucide-react";
 
 const events = [
   {
