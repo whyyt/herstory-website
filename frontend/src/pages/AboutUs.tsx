@@ -1,6 +1,4 @@
 "use client"
-
-import React from 'react'
 import { motion } from 'framer-motion'
 import { Navbar } from '../components/layout/Navbar'
 import { InfiniteSlider } from '../components/ui/loopinfinate'

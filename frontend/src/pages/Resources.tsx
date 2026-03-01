@@ -1,5 +1,4 @@
 "use client";
-import React from 'react';
 import { SmoothScrollHero } from '../components/ui/modern-hero';
 import { ResourceRow } from '../components/ui/resourceitem';
 
