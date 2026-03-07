@@ -23,10 +23,10 @@ export function Hero() {
     subtitle: (
       <>
         <span className="block mb-3">
-          <strong className="text-black/90">Our Mission:</strong> Onboarding 2,000+ women into the Web3 and AI sectors annually.
+          <strong className="text-black/90">Our Mission:</strong> Onboarding 2,000+ Chinese speaker women into the Web3 and AI sectors annually.
         </span>
         <span className="block">
-          <strong className="text-black/90">Our Vision:</strong> Empowering every woman with the technical skills to co-create a matriarchal society.
+          <strong className="text-black/90">Our Vision:</strong> Empowering every Chinese speaker women with the technical skills to co-create a matriarchal society.
         </span>
       </>
     ),

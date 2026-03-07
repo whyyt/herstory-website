@@ -11,7 +11,9 @@ export const Friendlogo = () => {
     "/logos/13.jpg", "/logos/14.jpeg", "/logos/15.jpeg", "/logos/16.jpeg",
     "/logos/17.png", "/logos/18.png", "/logos/19.png", "/logos/20.png",
     "/logos/21.jpeg", "/logos/22.png", "/logos/23.jpeg", "/logos/24.png",
-    "/logos/25.jpeg",
+    "/logos/25.jpeg","/logos/26.jpg","/logos/27.jpg","/logos/28.jpg",
+    "/logos/29.jpg","/logos/30.jpg","/logos/31.jpg", "/logos/32.jpg",
+    "/logos/33.jpg","/logos/34.jpg"
   ]
 
   // 动画配置：duration 50s 适合 26 张图的密度
